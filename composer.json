@@ -1,20 +1,20 @@
 {
-    "name": "majestic/laravel-litecoinrpc",
+    "name": "acharsoft/laravel-litecoinrpc",
     "type": "library",
     "description": "Litecoin JSON-RPC Service Provider for Laravel",
     "keywords": ["laravel","litecoin","api","jsonrpc","guzzle"],
-    "homepage": "https://github.com/majestic84/laravel-litecoinrpc",
+    "homepage": "https://github.com/acharsoft/laravel-litecoinrpc",
     "license": "MIT",
     "authors": [
         {
-            "name": "majestic84",
-            "email": "southsideprod@hotmail.com",
+            "name": "mobin",
+            "email": "mobinpou@gmail.com",
             "role": "Developer"
         }
     ],
     "require": {
         "php": ">=5.6.0",
-        "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*",
+        "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*|5.8.*",
         "majestic/php-litecoinrpc": "^2.0"
     },
     "require-dev": {
